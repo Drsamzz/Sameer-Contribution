@@ -8,7 +8,7 @@ from App.models import User
 from App.main import create_app
 from App.controllers import ( initialize )
 
-
+#test
 # This commands file allow you to create convenient CLI commands for testing controllers
 
 app = create_app()
